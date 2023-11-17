@@ -1,4 +1,4 @@
-public class DoWhileOddNumbersExample {
+public class doWhilwLoopExample1 {
     public static void main(String[] args) {
 
         int count = 1;

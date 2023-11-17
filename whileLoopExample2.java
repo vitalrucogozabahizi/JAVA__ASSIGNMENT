@@ -1,4 +1,4 @@
-public class EvenNumbersExample {
+public class WhileLoopExample2 {
     public static void main(String[] args) {
         
         System.out.println("Even numbers from 1 to 10:");

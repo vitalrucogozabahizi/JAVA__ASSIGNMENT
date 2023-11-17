@@ -1,8 +1,7 @@
-public class checkNumber{
+public class ifConditionExample2{
 public static void main(String[] args){
-
-private int gender = "male"; 
-if(this.gender == "male" ){
+String gender = "male"; 
+if(gender == "male" ){
 System.out.println("You are gentleman");
 }}
 }

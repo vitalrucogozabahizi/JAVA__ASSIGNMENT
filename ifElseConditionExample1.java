@@ -1,8 +1,8 @@
-public class checkNumber{
+public class ifElseConditionExample1{
 public static void main(String[] args){
 
-private int number = 25; 
-if(this.number > 0){
+int number = 25; 
+if(number > 0){
 System.out.println("number is positive");
 } else {
     System.out.println("number is negative");

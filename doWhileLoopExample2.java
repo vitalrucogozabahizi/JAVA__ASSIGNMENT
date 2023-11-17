@@ -1,7 +1,7 @@
-public class DoWhileOddNumbersExample {
+public class doWhileLoopExample2 {
     public static void main(String[] args) {
-        private int count = 0;
-        private int number = 1;
+    int count = 0;
+     int number = 1;
 
         // Use a do-while loop to display the first 10 odd numbers
         System.out.println("First 10 odd numbers:");
@@ -9,8 +9,8 @@ public class DoWhileOddNumbersExample {
         do {
             System.out.println(number);
 
-            this.count++;
-            this.number += 2;
+            count++;
+            number += 2;
 
         } while (count < 10);
     }
